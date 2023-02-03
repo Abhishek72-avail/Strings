@@ -15,4 +15,5 @@ public class IndexOfExample {
 //passing char value
             int index4=s1.indexOf('s');//returns the index of s char value
             System.out.println(index4);//3
+            System.out.println(index4);//3
         }}
